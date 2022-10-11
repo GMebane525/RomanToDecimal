@@ -17,7 +17,7 @@ public class RomanToDecimalTest {
         assertEquals(RomanToDecimal.romanToDecimal("MIII"), 1003);
         assertEquals(RomanToDecimal.romanToDecimal("DIII"), 503);
         assertEquals(RomanToDecimal.romanToDecimal("MIX"), 1009);
-        assertEquals(RomanToDecimal.romanToDecimal("MIX"), 1009);
+        assertEquals(RomanToDecimal.romanToDecimal("CIX"), 109);
         assertEquals(RomanToDecimal.romanToDecimal("MCXI"), 1111);
 
 
