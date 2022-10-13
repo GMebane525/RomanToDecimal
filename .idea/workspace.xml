@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad07db0a-2a13-441d-b7a9-983019fc48d2" name="Changes" comment="RomanToDecimal project">
-      <change afterPath="$PROJECT_DIR$/RomanToDecimalProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomanToDecimalTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToDecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665153428733</updated>
-      <workItem from="1665153430156" duration="19355000" />
+      <workItem from="1665153430156" duration="19815000" />
     </task>
     <task id="LOCAL-00001" summary="RomanToDecimal project">
       <created>1665498655262</created>
@@ -116,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665524386330</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="RomanToDecimal project">
+      <created>1665672116830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665672116830</updated>
+    </task>
+    <task id="LOCAL-00005" summary="RomanToDecimal project">
+      <created>1665672143156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665672143156</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
