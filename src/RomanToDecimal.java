@@ -129,7 +129,7 @@ public class RomanToDecimal {
 
 
     /**
-     * Main method for class Widget
+     * Main method for class RomanToDecimal
      *
      * @param args Command-line arguments, if needed.
      */
@@ -142,7 +142,7 @@ public class RomanToDecimal {
             if (roman.toUpperCase().equals(decimalToRoman(decimal)))
                 System.out.println("Input: " + roman + " => output: " + romanToDecimal(roman));
             else if (decimal == -1)
-                System.out.println("Input: " + roman + " output: invalid ");
+                System.out.println("Input: " + roman + " => output: invalid ");
             else
                 System.out.println("Input: " + roman + " => output: logically incorrect input ");
         }
